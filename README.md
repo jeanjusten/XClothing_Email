@@ -5,7 +5,6 @@
 # 📧 X-Clothing - Html E-mail Template
 <p>
 X-clothing features an HTML email template designed for a fictional store to send promotional content to its customers. <br>
-This project uses archaic inline styles within the HTML, as it's meant to serve as a marketing email template that will be sent via email clients. This ensures better compatibility across different email providers.
 </p>
 
 Check out the ***Table of Contents*** section to navigate through this documentation.
@@ -37,8 +36,9 @@ Check out the ***Table of Contents*** section to navigate through this documenta
 <!--Introduction-->
 ## :large_orange_diamond: Introduction
 ### :arrow_forward: Description
-
-You can check it out how this project is displayed on a mail box by visiting the [3.1 Mail Box Display](#arrow_forward-mail-box-display) section.
+X-Clothing is a html e-mail template designed for studying old inline CSS styles.<br>
+The project uses archaic inline styles within the HTML, as it's meant to serve as a marketing email template that will be sent via email clients. This ensures better compatibility across different email providers.<br>
+You can check it out how the content is displayed on a mail box by visiting the [3.1 Mail Box Display](#arrow_forward-mail-box-display) section.
 
 <!--Patch Notes-->
 ## :large_orange_diamond: Patch Notes
