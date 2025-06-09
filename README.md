@@ -1,6 +1,7 @@
 ![Status](https://img.shields.io/badge/status-finished-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
+![2025-06-0919-22-02-ezgif com-crop](https://github.com/user-attachments/assets/440758be-5b71-4585-97ec-830a261f31fa)
 <!--Title Image-->
 # 📧 X-Clothing - Html E-mail Template
 <p>
@@ -84,6 +85,8 @@ Check out a few of them:<br>
 > However, in this project all images are hardcoded into the HTML so they can be displayed properly when deployed on Vercel.
 
 ### :arrow_forward: Mail Box Display
+![2025-06-0919-41-13-ezgif com-crop](https://github.com/user-attachments/assets/ae2dee17-ff2a-4116-8ea8-7c0308237000)
+
 <p>
 Here is how the content is displayed in your mail box.
 </p>
@@ -94,15 +97,15 @@ This E-mail template is designed to fit every device.
 </p>
 
 #### :small_red_triangle_down: Mobile
-
+![2025-06-0919-46-37-ezgif com-crop](https://github.com/user-attachments/assets/ff4523bd-7fa4-4e5e-b28a-ff54b0112af6)
 <p>- Mobile View</p>
 
 #### :small_red_triangle_down: Tablet
-
+![2025-06-0919-43-22-ezgif com-crop](https://github.com/user-attachments/assets/2c70cb65-836f-46d4-a2f2-10ea303c3e44)
 <p>- Tablet View</p>
 
 #### :small_red_triangle_down: Desktop
-
+![2025-06-0919-41-13-ezgif com-crop](https://github.com/user-attachments/assets/ae2dee17-ff2a-4116-8ea8-7c0308237000)
 <p>- Desktop View</p>
 
 <!--Tools Used-->
